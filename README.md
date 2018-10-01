@@ -22,4 +22,4 @@ Support and Contact details
 Moringa School supported me alot inorder to acquire the knowledge that i used
 to establish this program
 
-LINK
+LINK  https://stephen22otieno.github.io/PIG-DICE-GAME/
