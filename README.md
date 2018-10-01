@@ -2,8 +2,7 @@ PIG-DICE-GAME
 
 Description
 
-This is a questionnaire that contains question and multiple choice for the
-interviewer who is going to answer the questions
+This is the game that is popularly played
 
 By 
 
@@ -15,7 +14,7 @@ Setup Requirement
  
 Technology Used
 
-Language used:- HTML, CSS/STYLES.CSS,  JAVASCRIPT,
+Language used:- HTML, CSS/STYLES.CSS,  JAVASCRIPT
 
 Support and Contact details
 
