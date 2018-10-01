@@ -15,7 +15,7 @@ Setup Requirement
  
 Technology Used
 
-Language used:- HTML, CSS/STYLES.CSS,  JAVASCRIPT,
+Language used:- HTML, CSS/STYLES.CSS,  JAVASCRIPT
 
 Support and Contact details
 
